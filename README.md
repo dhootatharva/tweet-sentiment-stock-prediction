@@ -1,5 +1,9 @@
 # Does Twitter Sentiment Predict Stock Returns?
 
+[![tests](https://github.com/dhootatharva/tweet-sentiment-stock-prediction/actions/workflows/tests.yml/badge.svg)](https://github.com/dhootatharva/tweet-sentiment-stock-prediction/actions/workflows/tests.yml)
+![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 VADER sentiment on ~2.5 million non-neutral tweets about Apple, Amazon, Google, Microsoft and Tesla (2015–2019), joined to daily prices and tested with support vector regression, random forests and linear baselines under **walk-forward, look-ahead-free** evaluation.
 
 **Key findings**
